@@ -36,6 +36,8 @@ dev_dependencies:
   google_fonts: ^6.1.0
   http: ^1.1.2
   skeletonizer: ^0.8.0
+  html: ^0.15.4
+  tuple: ^2.0.2
 
 flutter:
 
